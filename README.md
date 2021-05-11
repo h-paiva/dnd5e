@@ -18,4 +18,5 @@ Uma vez que a escolhido a raça e a classe, precisa fazer a distribuição dos a
 Agora com a distribuição preenchida, é a hora de criar a ficha, para isso crie uma copia dessa ficha que esta hospedada no Drive: 
 	https://docs.google.com/spreadsheets/d/1b40vyyBu-HIEBdfZ0rKbZgKsKxKkA75BuyBonqSdmbY/edit?usp=sharing
 
-Pronto, agora é ver os detalhes no livro que esta sua raça e sua classe e preencher a ficha com a historia do seu personagem
+Pronto, agora é ver os detalhes no livro (link a seguir) que esta sua raça e sua classe e preencher a ficha com a historia do seu personagem:	 https://mega.nz/folder/oiJA1Z6b#Ftehl2xOlRKHRe_9Kc3Etg
+
